@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "get-papers-project"
+version = "0.1.0"
+description = "Fetch PubMed research papers"
+authors = ["Sayali <sayali@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.9"
+biopython = "^1.85"
+pandas = "^2.3.1"
+requests = "^2.32.4"
+
+[tool.poetry.scripts]
+get-papers-list = "scripts.get_papers_list:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
