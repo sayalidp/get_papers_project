@@ -27,6 +27,3 @@ By transforming unstructured search results into organized datasets, PaperFetch 
 
 
 
-
-Contributions are welcome! Feel free to fork and improve the project. 🚀
-
