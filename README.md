@@ -7,9 +7,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayali-parandwal-402166219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayali-parandwal-402166219/" height="30" width="40" /></a>
 </p>
 
-📌 PaperFetch 
+📌 PubMed Scraper 
 
-PaperFetch is a Python-based command-line application designed to streamline academic research. It integrates with the PubMed API to search and retrieve research papers based on custom queries. The tool filters results by author affiliation (e.g., pharmaceutical or biotech companies) and exports structured metadata — including titles, authors, journals, and publication years — into CSV format.
+PubMed Scraper is a Python-based command-line application designed to streamline academic research. It integrates with the PubMed API to search and retrieve research papers based on custom queries. The tool filters results by author affiliation (e.g., pharmaceutical or biotech companies) and exports structured metadata — including titles, authors, journals, and publication years — into CSV format.
 
 This project highlights proficiency in:
 
